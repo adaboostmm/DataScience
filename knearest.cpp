@@ -1,6 +1,4 @@
 /*
-* CS 106B, Final Project: Minakshi Mukherjee
-*
 * This file provides the implementation for the K Nearest neighbor algorithm
 * using two approaches; one approach uses Vector sort function to sort and another
 * approach uses Priority Queue enqueue for sort and deque to pull k shortest distance
