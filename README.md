@@ -4,5 +4,4 @@ Hubble Space Telescope has identified yet another new planet, NASA scientists ha
 We got a validation set with 13 datapoints with similar features. Let's code a basic KNN algorithm in C++ and measure the accuracy with the validation set.
 
 The code uses Stanford C++ libraries.
-This was done as a class project for CS106B: Programming Abstraction using C++ class.
 
